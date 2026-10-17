@@ -2,7 +2,7 @@
 
 Game schedule for the 2026 Zombie Shootout lacrosse tournament (22 teams, 33 games, 9:00 AM – 6:00 PM).
 
-**Live page:** https://YOURUSERNAME.github.io/zombie-shootout/
+**Live page:** https://Dashers2208.github.io/zombie-shootout/
 
 ## For families
 - Choose your team from the dropdown, or tap any team name, to highlight all of their games.
